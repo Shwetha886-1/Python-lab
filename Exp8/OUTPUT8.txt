@@ -1,0 +1,21 @@
+OUTPUT
+
+PS C:\Users\shwet\python lab> & C:\Users\shwet\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/shwet/python lab/Exp8/Experiment-8.py"
+
+No match
+
+Yes, it's hot
+
+All numbers: ['85', '90', '78', '92']
+
+Found: apple
+
+Start: 0 End: 5
+
+Found: apple
+
+Start: 13 End: 18
+
+Languages: ['python', ' Java', ' c++ ', ' Javascript']
+
+My phone number is xxxxxxxxxx
