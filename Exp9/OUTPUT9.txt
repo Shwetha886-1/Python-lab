@@ -1,0 +1,19 @@
+OUTPUT
+PS C:\Users\shwet\python lab> & C:\Users\shwet\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/shwet/python lab/Exp9/Experiment-9.py"
+NumPy Array: [10 20 30 40 50]
+Mean: 30.0
+Sum: 150
+
+Pandas DataFrame:
+    Name  Marks
+0   Asha     85
+1   Riya     90
+2  Kiran     78
+Matplotlib is building the font cache; this may take a moment.
+DataFrame:
+  Team  Score
+0  RCB    180
+1  CSK    200
+2   MI    175
+3  KKR    190
+
