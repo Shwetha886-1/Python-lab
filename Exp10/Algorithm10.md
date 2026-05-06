@@ -39,15 +39,27 @@ STEP 1: Stop
 2.Algorithm: Plotting Graphs
 
 STEP 1: Start
+
 STEP 2: Import pandas and matplotlib libraries
+
 STEP 3: Create dataset (Name and Marks)
+
 STEP 4: Convert dataset into DataFrame
+
 STEP 5: Display dataset
+
 STEP 6: Plot Line Graph:
+
         X-axis → Name
+        
         Y-axis → Marks
+        
 STEP 7: Plot Bar Chart using same data
+
 STEP 8: Plot Pie Chart showing percentage distribution
+
 STEP 9: Plot Histogram for marks frequency
+
 STEP 10: Display all graphs
+
 STEP 11: Stop
