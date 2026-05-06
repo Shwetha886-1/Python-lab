@@ -1,0 +1,30 @@
+Output
+Tuple elements: (10, 20, 30, 40, 50, 50)
+
+First element: 10
+Last element: 50
+
+Length of tuple: 6
+
+Count of 20: 1
+
+Index of 30: 2
+
+Concatenated tuple: (1, 2, 3, 4, 5, 6)
+
+Repeated tuple: (1, 2, 3, 1, 2, 3, 1, 2, 3)
+
+Is 40 in numbers? True
+
+Iteration through tuple:
+10
+20
+30
+40
+50
+50
+
+Enter your name: Rahul
+Enter your marks: 82
+Student name: Rahul
+Grade: B
