@@ -1,0 +1,21 @@
+OUTPUT:
+True
+True
+True
+True
+True
+
+In bitwise operation
+True
+True
+True
+True
+
+True
+True
+
+In Subtraction
+True
+True
+True
+True
