@@ -1,0 +1,24 @@
+Output
+Enter a string: hello
+Length of the string: 5
+
+Enter a string: python
+Uppercase: PYTHON
+
+Enter a string: PROGRAMMING
+Lowercase: programming
+
+Enter a string: apple
+Reversed string: elppa
+
+Enter first string: good
+Enter second string: morning
+Concatenated string: good morning
+
+Enter first string: data
+Enter second string: data
+Strings are equal
+
+Enter main string: computer science
+Enter substring: science
+Substring found
