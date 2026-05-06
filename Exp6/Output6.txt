@@ -1,0 +1,19 @@
+Output
+Original dictionary: {'name': 'Shwetha', 'age': 20, 'course': 'BCA'}
+Name: Shwetha
+Age: 20
+After adding marks: {'name': 'Shwetha', 'age': 20, 'course': 'BCA', 'marks': 90}
+After updating age: {'name': 'Shwetha', 'age': 21, 'course': 'BCA', 'marks': 90}
+After pop(age): {'name': 'Shwetha', 'course': 'BCA', 'marks': 90}
+After deleting marks: {'name': 'Shwetha', 'course': 'BCA'}
+After clear(): {}
+Keys: dict_keys(['name', 'age', 'marks'])
+Values: dict_values(['Shwetha', 20, 90])
+Items: dict_items([('name', 'Shwetha'), ('age', 20), ('marks', 90)])
+After update: {'name': 'Shwetha', 'age': 20, 'marks': 95}
+Iterating dictionary:
+name : Shwetha
+age : 20
+marks : 95
+Nested dictionary access: Ram
+PS C:\Users\shwet\python lab>
