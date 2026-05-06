@@ -1,0 +1,53 @@
+Output
+Enter the player detail: 1
+Enter the player name: Rahul
+Enter the number of runs: 65
+Enter the number of balls: 40
+Enter the number of wickets: 2
+Enter the runs conceded: 30
+Enter the remaining overs: 5
+Enter the number of catches: 1
+
+Player name = Rahul
+Strike rate = 162.5
+Economy = 6.0
+Batter = Excellent batter
+Bowler = Good bowler
+Fielder = Active fielder
+All rounder decision = Supporting all rounder
+
+
+Enter the player detail: 2
+Enter the player name: Rohit
+Enter the number of runs: 25
+Enter the number of balls: 20
+Enter the number of wickets: 3
+Enter the runs conceded: 18
+Enter the remaining overs: 4
+Enter the number of catches: 2
+
+Player name = Rohit
+Strike rate = 125.0
+Economy = 4.5
+Batter = Average batter
+Bowler = Excellent bowler
+Fielder = Outstanding fielder
+All rounder decision = Need improvement
+
+
+Enter the player detail: 3
+Enter the player name: Virat
+Enter the number of runs: 45
+Enter the number of balls: 35
+Enter the number of wickets: 1
+Enter the runs conceded: 40
+Enter the remaining overs: 5
+Enter the number of catches: 0
+
+Player name = Virat
+Strike rate = 128.57
+Economy = 8.0
+Batter = Good batter
+Bowler = Average bowler
+Fielder = Need improvement
+All rounder decision = Supporting all rounder
