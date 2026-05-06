@@ -1,0 +1,19 @@
+OUTPUT
+
+PS C:\\Users\\shwet\\python lab> \& C:\\Users\\shwet\\AppData\\Local\\Programs\\Python\\Python314\\python.exe "c:/Users/shwet/python lab/Experiment-7.py"
+
+Enter student name: shwetha
+
+Enter marks: 90
+
+student shwetha scored 90 in her python exam
+
+The cat meows: meow! meow!
+
+The Dog barks: woof! woof!
+
+The animal makes sound
+
+The animal makes sound
+
+the Dog barks! woof !
